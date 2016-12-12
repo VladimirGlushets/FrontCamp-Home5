@@ -1,0 +1,1 @@
+start C:\mongodb\bin\mongod --dbpath C:\data\db
